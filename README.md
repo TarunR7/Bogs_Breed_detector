@@ -1,16 +1,5 @@
-# dogs_bread_dectector
+# dogs_bread_detector
+A flutter project made to detect the breed of a dog from the camera from your phone with the help of pre trained model made using tensorflow.
+![image](https://github.com/user-attachments/assets/75eb965b-95c0-4002-b840-0ee462565380)
+![image](https://github.com/user-attachments/assets/332b2251-dff0-4ad2-b9aa-8944ffc7e1f5)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
